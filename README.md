@@ -8,7 +8,7 @@ A simple implementation on Apex as proof of concept, Undetected Since The Very B
 
 Dear pasters, Yes you can paste anything in there.
 
-Here's some of the videos I made back in 2022
+Here's some of the videos I made 2022
 
 [![Showcase 1](https://img.youtube.com/vi/fQQOC9evsuE/0.jpg)](https://www.youtube.com/watch?v=fQQOC9evsuE)
 [![Showcase 2](https://img.youtube.com/vi/-Jm-8XeVV5c/0.jpg)](https://www.youtube.com/watch?v=-Jm-8XeVV5c)
