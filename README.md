@@ -1,3 +1,5 @@
+# Someone named ch3ta posted this on UC, he's not me, so here's all the source for free, in case he was selling it
+
 # BDKpex - A YANHAX private (used to be) kernel driver
 
 Sometimes I think I'm stuck in the past. I was really proud of this, but now I guess it's time to let it go, we always gotta go forwards aye? I will get new hobbies, meet new people, do new stuff, doesn't that sound fun :)
